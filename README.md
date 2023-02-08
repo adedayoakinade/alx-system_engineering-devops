@@ -1,1 +1,1 @@
-This repository contains my system engeeering devops learning track
+This repository contains my system engineering devops learning track
